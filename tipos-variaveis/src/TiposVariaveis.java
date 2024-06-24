@@ -1,5 +1,10 @@
 public class TiposVariaveis {
+    
+    
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        
+        int n1 = 5;
+        System.out.println("Valor: " + n1 + (-n1));
+
     }
 }
